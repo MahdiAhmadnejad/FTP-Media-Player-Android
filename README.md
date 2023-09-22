@@ -1,5 +1,15 @@
-# This Android app connects to an FTP server and plays a video.
+# FTPlay.
+Access your media library anywhere with FTPlay. Connect to your FTP server from mobile, play your video, and stream playback. I'm working on it to make it better! Soon
 
+## Table of Contents
+- [Demo](#Demo)
+- [Features](#Features) 
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [Feedback](#Feedback)
+- [License](#License)
+- [Library](#Library)
+  
 ## Features
 
 - Connects to FTP servers
