@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FTP_connection</string>
+    <string name="username">User Name</string>
+    <string name="server_address">Server Address</string>
+    <string name="password">Password</string>
+    <string name="file_location">File Location</string>
+    <string name="connect">Connect</string>
+    <string name="file_name">File Name</string>
+</resources>
